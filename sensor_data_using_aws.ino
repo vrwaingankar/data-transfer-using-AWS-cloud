@@ -15,7 +15,7 @@ float t;
 
 int c = 0;
 
-#define AWS_IOT_PUBLISH_TOPIC   "esp32/counter"
+#define AWS_IOT_PUBLISH_TOPIC   "esp32/temp_humid"
 //#define AWS_IOT_SUBSCRIBE_TOPIC1 "esp32/port1"      // used to send data if required
 
 BlynkTimer timer;
